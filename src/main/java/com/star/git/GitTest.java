@@ -12,7 +12,5 @@ public class GitTest {
         System.out.println("master merge");
         System.out.println("Hot-fix merge");
     }
-    public void show(){
-        System.out.println("Hello Everyone");
-    }
+
 }
